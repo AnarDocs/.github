@@ -4,6 +4,8 @@
 
 Other repositories are backup forks or mirrors of various sites, zines and info.
 
+[Libertarian Socialist Wiki](https://github.com/AnarDocs/LibSocWiki/blob/main/pages/Libertarian_Socialist_Wiki.md)
+
 <!--
 
 **Here are some ideas to get you started:**
